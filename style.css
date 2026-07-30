@@ -1,0 +1,61 @@
+body {
+ margin: 0 10%;
+ font: 1.25rem/1.75rem "Gilda Display";
+ color: floralwhite;
+ background-color: rgb(177, 158, 82);
+ text-align: center;
+ }
+ header {
+ background-color: rgb(177, 158, 82);
+ text-align: center;
+ padding: 12px;
+ margin-bottom: 36px;
+ }
+ h1 {
+ color: rgb(255, 155, 25);
+ font: bold 1.75rem "Gilda Display";
+ text-transform: uppercase;
+ letter-spacing: 5px;
+ margin: 0;
+ text-align: center;
+ }
+ main {
+ background-color: rgb(140, 73, 48);
+ }
+ 
+ h2 {
+ color: rgb(255, 155, 25);
+ font: bold 1.25rem "Gilda Display";
+ text-align: center;
+ }
+ footer {
+ font: 1.25rem/1.75rem "Gilda Display";
+ color: floralwhite;
+ background-color: rgb(177, 158, 82);
+ text-align: center;
+ }
+ nav {
+ margin: 0 10%;
+ font: 1.25rem/1.75rem "Gilda Display";
+ color: rgb(255, 155, 25);
+ background-color: rgb(177, 158, 82);
+ }
+  a {
+ font: 1.05rem "Gilda Display";
+ color:rgb(255, 155, 25);
+ background-color: rgba(63, 131, 131, 0);
+ }
+  a:hover {
+    color:rgb(255, 255, 255);
+    background-color:rgb(255, 222, 5);
+    font: 1.10rem "Gilda Display";
+  }
+  img {
+  transform: scale(1);
+}
+ p {
+text-align: left;
+  }
+ li {
+text-align: left;
+  }
